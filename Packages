@@ -2,7 +2,7 @@ Package: com.battousai.spacejusticemenu
 Version: 10.1
 Section: Cheats
 Maintainer: Pmoigki <pmoigki@hotmail.com>
-Depends: firmware (<7.0)
+Depends: firmware (>7.0)
 Architecture: iphoneos-arm
 Filename: /com.battousai.spacejusticemenu_10.1_iphoneos-arm.deb
 Size: 550146
