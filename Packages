@@ -26,3 +26,18 @@ Name: Old Package
 Author: Pmoigki <pmoigki@hotmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
+
+
+Package: com.battousai.spacejusticemenu
+Version: 1.0.0-1
+Section: Tweaks
+Maintainer: Pmoigki <pmoigki@hotmail.com>
+Depends: firmware (<7.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.battousai.spacejusticemenu_10.1_iphoneos-arm.deb
+Size: 550146
+MD5sum: 7341a1b9dc8fef9422dca0a1bfd3f47b
+Description: Space Justice Mod-Menu
+Name: Space Justice
+Author: Pmoigki <pmoigki@hotmail.com>
+Depiction: https://pmoigki.github.io/depictions/?p=com.battousai.spacejusticemenu
